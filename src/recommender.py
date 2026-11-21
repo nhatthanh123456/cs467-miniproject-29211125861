@@ -132,6 +132,8 @@ class NLPContentBasedRecommender:
         ranked_indices = np.argsort(-sim_scores)
         results = []
         for idx in ranked_indices:
+            if sim_scores[idx] <= 0:
+                continue
             item_id = self.items_df.iloc[idx]["item_id"]
             if item_id in exclude:
                 continue
