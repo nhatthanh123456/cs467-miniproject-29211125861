@@ -17,7 +17,7 @@
 | **Assigned Project Title** | Study Resource and Exam Prep Material Recommender |
 | **Application Domain** | Student Learning Hub |
 | **Repository Name** | `cs467-miniproject-29211125861` |
-| **Repository URL** | https://github.com/nhatthanh-29211125861/cs467-miniproject-29211125861 |
+| **Repository URL** | https://github.com/nhatthanh123456/cs467-miniproject-29211125861 |
 
 ---
 
@@ -109,7 +109,7 @@ The project utilizes two domain-tailored datasets located in [`data/`](./data/):
 Clone the repository and install dependencies in Python 3.10+:
 
 ```bash
-git clone https://github.com/nhatthanh-29211125861/cs467-miniproject-29211125861.git
+git clone https://github.com/nhatthanh123456/cs467-miniproject-29211125861.git
 cd cs467-miniproject-29211125861
 
 # Optional: Create and activate virtual environment
