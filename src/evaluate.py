@@ -148,7 +148,7 @@ def evaluate_offline(
     return summary
 
 
-def plot_charts(items_df: pd.DataFrame, ratings_df: pd.DataFrame, eval_results: dict, results_dir: str):
+def plot_charts(items_df: pd.DataFrame, ratings_df: pd.DataFrame, eval_results: dict, results_dir: str, show_gui: bool = False):
     """
     Generates and saves at least 2 clean visualization charts:
     1. dataset_distribution.png (ratings and subject distributions)
@@ -158,7 +158,7 @@ def plot_charts(items_df: pd.DataFrame, ratings_df: pd.DataFrame, eval_results: 
     plt.style.use("tableau-colorblind10" if "tableau-colorblind10" in plt.style.available else "default")
 
     # Chart 1: Dataset Distribution
-    fig, axes = plt.subplots(1, 2, figsize=(13, 5))
+    fig1, axes = plt.subplots(1, 2, figsize=(13, 5))
     
     # Subplot 1A: Rating Distribution
     counts = ratings_df["rating"].value_counts().sort_index()
@@ -181,13 +181,12 @@ def plot_charts(items_df: pd.DataFrame, ratings_df: pd.DataFrame, eval_results: 
         axes[1].text(x + 0.3, y, str(x), va="center", fontweight="bold")
     axes[1].grid(axis="x", linestyle="--", alpha=0.5)
 
-    plt.tight_layout()
+    fig1.tight_layout()
     chart1_path = os.path.join(results_dir, "dataset_distribution.png")
-    plt.savefig(chart1_path, dpi=300)
-    plt.close()
+    fig1.savefig(chart1_path, dpi=300)
 
     # Chart 2: Model Performance Comparison
-    fig, ax = plt.subplots(figsize=(10, 5))
+    fig2, ax = plt.subplots(figsize=(10, 5))
     models = list(eval_results.keys())
     x = np.arange(len(models))
     width = 0.25
@@ -216,10 +215,15 @@ def plot_charts(items_df: pd.DataFrame, ratings_df: pd.DataFrame, eval_results: 
                         xytext=(0, 3), textcoords="offset points",
                         ha="center", va="bottom", fontsize=9, fontweight="bold")
 
-    plt.tight_layout()
+    fig2.tight_layout()
     chart2_path = os.path.join(results_dir, "model_comparison.png")
-    plt.savefig(chart2_path, dpi=300)
-    plt.close()
+    fig2.savefig(chart2_path, dpi=300)
+
+    if show_gui:
+        plt.show()
+    else:
+        plt.close(fig1)
+        plt.close(fig2)
 
     return chart1_path, chart2_path
 
@@ -349,6 +353,11 @@ def run_and_save_test_cases(
 
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Evaluate recommendation models and generate charts.")
+    parser.add_argument("--show", action="store_true", help="Display charts in interactive GUI windows.")
+    args = parser.parse_args()
+
     items_path = "data/items.csv"
     ratings_path = "data/ratings.csv"
     results_dir = "results"
@@ -368,7 +377,7 @@ if __name__ == "__main__":
         print(f"  {model}: {metrics}")
 
     print("\nGenerating visualization charts...")
-    c1, c2 = plot_charts(items, ratings, eval_results, results_dir)
+    c1, c2 = plot_charts(items, ratings, eval_results, results_dir, show_gui=args.show)
     print(f"Saved: {c1}")
     print(f"Saved: {c2}")
 
