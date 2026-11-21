@@ -1,0 +1,283 @@
+user_id,item_id,rating,study_comment
+STU001,RES001,5,"Best practice set I used for probability exam prep, very well structured."
+STU001,RES002,4,"Clear explanations on probability, helped reinforce lecture material."
+STU001,RES003,5,Spot-on coverage of probability; matched our exam questions closely.
+STU001,RES004,5,"Best study guide I used for normal distribution exam prep, very well structured."
+STU001,RES008,5,Super clear cheatsheet for descriptive statistics; saved me hours before the midterm.
+STU001,RES009,4,"Very useful study guide for revising linear regression, just wish it had one more example."
+STU001,RES010,4,"Clear explanations on decision trees, helped reinforce lecture material."
+STU001,RES011,4,Solid summary of svm concepts and easy to follow.
+STU001,RES012,5,Highly recommend this cheatsheet if you struggle with overfitting.
+STU001,RES013,5,"Helped everything click for evaluation metrics, especially the worked examples."
+STU001,RES014,4,"Clear explanations on clustering, helped reinforce lecture material."
+STU001,RES015,4,"Clear explanations on neural networks, helped reinforce lecture material."
+STU001,RES016,3,"Okay lecture notes for text preprocessing, needed to pair it with textbook notes."
+STU001,RES017,4,Helpful study guide for practicing tf-idf fundamentals.
+STU001,RES020,4,Helpful exam review for practicing recommender systems fundamentals.
+STU001,RES023,3,"Fine for a quick skim on binary trees, not detailed enough for finals."
+STU001,RES024,3,"Okay practice set for graphs, needed to pair it with textbook notes."
+STU001,RES026,3,"Decent overview of sorting, though a bit brief in some sections."
+STU001,RES027,3,"Decent overview of hash tables, though a bit brief in some sections."
+STU001,RES028,2,Too dense for last-minute linked lists review; hard to follow quickly.
+STU001,RES030,5,Concise and easy to review right before the quiz on eigenvalues.
+STU001,RES033,5,Concise and easy to review right before the quiz on derivatives.
+STU002,RES001,5,Super clear practice set for probability; saved me hours before the midterm.
+STU002,RES003,5,Highly recommend this practice set if you struggle with probability.
+STU002,RES006,5,"Best lecture notes I used for bayes theorem exam prep, very well structured."
+STU002,RES009,5,Highly recommend this study guide if you struggle with linear regression.
+STU002,RES010,4,Helpful lecture notes for practicing decision trees fundamentals.
+STU002,RES011,5,Concise and easy to review right before the quiz on svm.
+STU002,RES012,5,Highly recommend this cheatsheet if you struggle with overfitting.
+STU002,RES013,5,Spot-on coverage of evaluation metrics; matched our exam questions closely.
+STU002,RES014,5,"Helped everything click for clustering, especially the worked examples."
+STU002,RES017,4,Good study guide for quick tf-idf review before class.
+STU002,RES018,4,Helpful practice set for practicing sentiment analysis fundamentals.
+STU002,RES019,4,Solid summary of word embeddings concepts and easy to follow.
+STU002,RES022,2,Missing step-by-step explanations for the trickier big-o parts.
+STU002,RES025,1,"Too confusing for exam prep on dynamic programming, skipped most of it."
+STU002,RES029,4,"Very useful cheatsheet for revising matrices, just wish it had one more example."
+STU002,RES030,3,"Decent overview of eigenvalues, though a bit brief in some sections."
+STU002,RES031,4,"Very useful lecture notes for revising vectors, just wish it had one more example."
+STU002,RES032,5,Super clear study guide for partial derivatives; saved me hours before the midterm.
+STU002,RES037,2,Missing step-by-step explanations for the trickier er diagram parts.
+STU002,RES040,2,Too dense for last-minute sql review; hard to follow quickly.
+STU003,RES001,3,"Fine for a quick skim on probability, not detailed enough for finals."
+STU003,RES004,4,"Clear explanations on normal distribution, helped reinforce lecture material."
+STU003,RES005,4,Helpful exam review for practicing hypothesis testing fundamentals.
+STU003,RES006,4,"Clear explanations on bayes theorem, helped reinforce lecture material."
+STU003,RES007,3,Average usefulness for probability; covers basics but lacks harder problems.
+STU003,RES008,4,"Very useful cheatsheet for revising descriptive statistics, just wish it had one more example."
+STU003,RES010,5,Highly recommend this lecture notes if you struggle with decision trees.
+STU003,RES011,4,Good practice set for quick svm review before class.
+STU003,RES013,4,Helpful study guide for practicing evaluation metrics fundamentals.
+STU003,RES015,5,Highly recommend this practice set if you struggle with neural networks.
+STU003,RES016,2,"Not the right fit for my study style on text preprocessing, felt too abstract."
+STU003,RES019,2,Too dense for last-minute word embeddings review; hard to follow quickly.
+STU003,RES020,2,Too dense for last-minute recommender systems review; hard to follow quickly.
+STU003,RES022,3,"Okay cheatsheet for big-o, needed to pair it with textbook notes."
+STU003,RES023,3,"Okay study guide for binary trees, needed to pair it with textbook notes."
+STU003,RES026,3,"Decent overview of sorting, though a bit brief in some sections."
+STU003,RES029,5,Concise and easy to review right before the quiz on matrices.
+STU003,RES031,5,Highly recommend this lecture notes if you struggle with vectors.
+STU003,RES032,5,"Helped everything click for partial derivatives, especially the worked examples."
+STU003,RES033,5,Spot-on coverage of derivatives; matched our exam questions closely.
+STU003,RES035,2,Missing step-by-step explanations for the trickier sql parts.
+STU003,RES040,2,"Not the right fit for my study style on sql, felt too abstract."
+STU004,RES001,5,Super clear practice set for probability; saved me hours before the midterm.
+STU004,RES002,5,"Best cheatsheet I used for probability exam prep, very well structured."
+STU004,RES005,5,Spot-on coverage of hypothesis testing; matched our exam questions closely.
+STU004,RES006,4,Helpful lecture notes for practicing bayes theorem fundamentals.
+STU004,RES007,5,Concise and easy to review right before the quiz on probability.
+STU004,RES008,5,Spot-on coverage of descriptive statistics; matched our exam questions closely.
+STU004,RES010,3,"Okay lecture notes for decision trees, needed to pair it with textbook notes."
+STU004,RES011,5,"Best practice set I used for svm exam prep, very well structured."
+STU004,RES012,5,Super clear cheatsheet for overfitting; saved me hours before the midterm.
+STU004,RES013,3,Average usefulness for evaluation metrics; covers basics but lacks harder problems.
+STU004,RES014,4,"Clear explanations on clustering, helped reinforce lecture material."
+STU004,RES015,4,Solid summary of neural networks concepts and easy to follow.
+STU004,RES016,4,"Very useful lecture notes for revising text preprocessing, just wish it had one more example."
+STU004,RES017,4,"Very useful study guide for revising tf-idf, just wish it had one more example."
+STU004,RES018,5,"Best practice set I used for sentiment analysis exam prep, very well structured."
+STU004,RES021,3,"Fine for a quick skim on information retrieval, not detailed enough for finals."
+STU004,RES025,2,Too dense for last-minute dynamic programming review; hard to follow quickly.
+STU004,RES027,2,"Not the right fit for my study style on hash tables, felt too abstract."
+STU004,RES030,3,Average usefulness for eigenvalues; covers basics but lacks harder problems.
+STU004,RES033,4,"Very useful practice set for revising derivatives, just wish it had one more example."
+STU004,RES037,4,Good lecture notes for quick er diagram review before class.
+STU004,RES039,3,"Fine for a quick skim on transactions, not detailed enough for finals."
+STU005,RES003,5,"Best practice set I used for probability exam prep, very well structured."
+STU005,RES004,5,"Helped everything click for normal distribution, especially the worked examples."
+STU005,RES006,5,Super clear lecture notes for bayes theorem; saved me hours before the midterm.
+STU005,RES007,5,"Best practice set I used for probability exam prep, very well structured."
+STU005,RES009,4,Helpful study guide for practicing linear regression fundamentals.
+STU005,RES010,4,Good lecture notes for quick decision trees review before class.
+STU005,RES011,4,"Clear explanations on svm, helped reinforce lecture material."
+STU005,RES013,4,Helpful study guide for practicing evaluation metrics fundamentals.
+STU005,RES015,4,Solid summary of neural networks concepts and easy to follow.
+STU005,RES017,3,Average usefulness for tf-idf; covers basics but lacks harder problems.
+STU005,RES018,3,Average usefulness for sentiment analysis; covers basics but lacks harder problems.
+STU005,RES025,2,Too dense for last-minute dynamic programming review; hard to follow quickly.
+STU005,RES029,5,"Best cheatsheet I used for matrices exam prep, very well structured."
+STU005,RES031,5,"Best lecture notes I used for vectors exam prep, very well structured."
+STU005,RES033,4,Solid summary of derivatives concepts and easy to follow.
+STU005,RES038,3,"Decent overview of indexing, though a bit brief in some sections."
+STU006,RES001,4,Good practice set for quick probability review before class.
+STU006,RES003,4,Good practice set for quick probability review before class.
+STU006,RES005,4,Helpful exam review for practicing hypothesis testing fundamentals.
+STU006,RES006,3,"Okay lecture notes for bayes theorem, needed to pair it with textbook notes."
+STU006,RES007,4,Solid summary of probability concepts and easy to follow.
+STU006,RES013,5,Super clear study guide for evaluation metrics; saved me hours before the midterm.
+STU006,RES016,5,"Helped everything click for text preprocessing, especially the worked examples."
+STU006,RES017,5,Concise and easy to review right before the quiz on tf-idf.
+STU006,RES019,4,"Clear explanations on word embeddings, helped reinforce lecture material."
+STU006,RES020,5,Highly recommend this exam review if you struggle with recommender systems.
+STU006,RES021,5,Super clear practice set for information retrieval; saved me hours before the midterm.
+STU006,RES024,4,Helpful practice set for practicing graphs fundamentals.
+STU006,RES032,3,"Decent overview of partial derivatives, though a bit brief in some sections."
+STU006,RES037,3,Average usefulness for er diagram; covers basics but lacks harder problems.
+STU006,RES040,2,Missing step-by-step explanations for the trickier sql parts.
+STU007,RES001,4,"Very useful practice set for revising probability, just wish it had one more example."
+STU007,RES005,4,Solid summary of hypothesis testing concepts and easy to follow.
+STU007,RES006,3,"Decent overview of bayes theorem, though a bit brief in some sections."
+STU007,RES007,4,Solid summary of probability concepts and easy to follow.
+STU007,RES008,4,Good cheatsheet for quick descriptive statistics review before class.
+STU007,RES015,4,Solid summary of neural networks concepts and easy to follow.
+STU007,RES017,5,Spot-on coverage of tf-idf; matched our exam questions closely.
+STU007,RES019,5,"Best cheatsheet I used for word embeddings exam prep, very well structured."
+STU007,RES020,5,Super clear exam review for recommender systems; saved me hours before the midterm.
+STU007,RES022,2,Missing step-by-step explanations for the trickier big-o parts.
+STU007,RES023,2,Missing step-by-step explanations for the trickier binary trees parts.
+STU007,RES028,2,"Not the right fit for my study style on linked lists, felt too abstract."
+STU007,RES034,2,"Not the right fit for my study style on optimization, felt too abstract."
+STU007,RES036,3,"Okay study guide for normalization, needed to pair it with textbook notes."
+STU007,RES037,2,Missing step-by-step explanations for the trickier er diagram parts.
+STU007,RES039,4,Helpful cheatsheet for practicing transactions fundamentals.
+STU007,RES040,3,"Decent overview of sql, though a bit brief in some sections."
+STU008,RES001,5,Super clear practice set for probability; saved me hours before the midterm.
+STU008,RES002,5,Concise and easy to review right before the quiz on probability.
+STU008,RES003,5,"Best practice set I used for probability exam prep, very well structured."
+STU008,RES004,5,Spot-on coverage of normal distribution; matched our exam questions closely.
+STU008,RES005,5,Concise and easy to review right before the quiz on hypothesis testing.
+STU008,RES008,5,Super clear cheatsheet for descriptive statistics; saved me hours before the midterm.
+STU008,RES010,5,Concise and easy to review right before the quiz on decision trees.
+STU008,RES013,5,"Helped everything click for evaluation metrics, especially the worked examples."
+STU008,RES016,5,"Helped everything click for text preprocessing, especially the worked examples."
+STU008,RES018,5,Highly recommend this practice set if you struggle with sentiment analysis.
+STU008,RES019,5,Spot-on coverage of word embeddings; matched our exam questions closely.
+STU008,RES020,5,"Helped everything click for recommender systems, especially the worked examples."
+STU008,RES022,2,Missing step-by-step explanations for the trickier big-o parts.
+STU008,RES025,2,Too dense for last-minute dynamic programming review; hard to follow quickly.
+STU008,RES027,1,"Too confusing for exam prep on hash tables, skipped most of it."
+STU008,RES030,3,"Okay study guide for eigenvalues, needed to pair it with textbook notes."
+STU008,RES031,2,"Not the right fit for my study style on vectors, felt too abstract."
+STU008,RES033,3,Average usefulness for derivatives; covers basics but lacks harder problems.
+STU008,RES034,4,Solid summary of optimization concepts and easy to follow.
+STU008,RES039,2,Missing step-by-step explanations for the trickier transactions parts.
+STU008,RES040,1,"Too confusing for exam prep on sql, skipped most of it."
+STU009,RES002,4,Good cheatsheet for quick probability review before class.
+STU009,RES003,4,Helpful practice set for practicing probability fundamentals.
+STU009,RES004,4,Solid summary of normal distribution concepts and easy to follow.
+STU009,RES005,4,Helpful exam review for practicing hypothesis testing fundamentals.
+STU009,RES007,4,Solid summary of probability concepts and easy to follow.
+STU009,RES009,5,"Best study guide I used for linear regression exam prep, very well structured."
+STU009,RES010,4,Solid summary of decision trees concepts and easy to follow.
+STU009,RES011,5,Highly recommend this practice set if you struggle with svm.
+STU009,RES012,5,Highly recommend this cheatsheet if you struggle with overfitting.
+STU009,RES013,5,Concise and easy to review right before the quiz on evaluation metrics.
+STU009,RES015,4,Good practice set for quick neural networks review before class.
+STU009,RES017,4,Good study guide for quick tf-idf review before class.
+STU009,RES019,4,"Clear explanations on word embeddings, helped reinforce lecture material."
+STU009,RES020,4,Helpful exam review for practicing recommender systems fundamentals.
+STU009,RES022,2,Missing step-by-step explanations for the trickier big-o parts.
+STU009,RES025,3,Average usefulness for dynamic programming; covers basics but lacks harder problems.
+STU009,RES026,2,Too dense for last-minute sorting review; hard to follow quickly.
+STU009,RES029,5,Highly recommend this cheatsheet if you struggle with matrices.
+STU009,RES030,4,"Very useful study guide for revising eigenvalues, just wish it had one more example."
+STU009,RES032,5,Spot-on coverage of partial derivatives; matched our exam questions closely.
+STU009,RES034,4,Helpful exam review for practicing optimization fundamentals.
+STU009,RES040,1,"Too confusing for exam prep on sql, skipped most of it."
+STU010,RES001,4,Solid summary of probability concepts and easy to follow.
+STU010,RES004,4,Good study guide for quick normal distribution review before class.
+STU010,RES005,4,Helpful exam review for practicing hypothesis testing fundamentals.
+STU010,RES006,4,Solid summary of bayes theorem concepts and easy to follow.
+STU010,RES007,5,Super clear practice set for probability; saved me hours before the midterm.
+STU010,RES008,4,"Very useful cheatsheet for revising descriptive statistics, just wish it had one more example."
+STU010,RES009,4,Solid summary of linear regression concepts and easy to follow.
+STU010,RES010,4,Good lecture notes for quick decision trees review before class.
+STU010,RES013,4,Good study guide for quick evaluation metrics review before class.
+STU010,RES015,4,"Clear explanations on neural networks, helped reinforce lecture material."
+STU010,RES018,5,"Best practice set I used for sentiment analysis exam prep, very well structured."
+STU010,RES019,5,"Best cheatsheet I used for word embeddings exam prep, very well structured."
+STU010,RES020,5,Highly recommend this exam review if you struggle with recommender systems.
+STU010,RES021,5,"Best practice set I used for information retrieval exam prep, very well structured."
+STU010,RES029,4,Good cheatsheet for quick matrices review before class.
+STU010,RES030,3,"Fine for a quick skim on eigenvalues, not detailed enough for finals."
+STU010,RES034,3,Average usefulness for optimization; covers basics but lacks harder problems.
+STU010,RES039,2,Missing step-by-step explanations for the trickier transactions parts.
+STU011,RES010,3,"Decent overview of decision trees, though a bit brief in some sections."
+STU011,RES014,4,Helpful exam review for practicing clustering fundamentals.
+STU011,RES015,3,Average usefulness for neural networks; covers basics but lacks harder problems.
+STU011,RES018,3,"Fine for a quick skim on sentiment analysis, not detailed enough for finals."
+STU011,RES021,4,"Very useful practice set for revising information retrieval, just wish it had one more example."
+STU011,RES025,5,"Best study guide I used for dynamic programming exam prep, very well structured."
+STU011,RES026,5,"Helped everything click for sorting, especially the worked examples."
+STU011,RES027,5,Spot-on coverage of hash tables; matched our exam questions closely.
+STU011,RES030,1,"Too confusing for exam prep on eigenvalues, skipped most of it."
+STU011,RES031,2,"Not the right fit for my study style on vectors, felt too abstract."
+STU011,RES032,3,"Fine for a quick skim on partial derivatives, not detailed enough for finals."
+STU011,RES034,1,Did not help much with optimization homework; needed clearer examples.
+STU011,RES035,5,Super clear practice set for sql; saved me hours before the midterm.
+STU011,RES038,5,Super clear study guide for indexing; saved me hours before the midterm.
+STU011,RES040,5,"Helped everything click for sql, especially the worked examples."
+STU012,RES002,3,"Fine for a quick skim on probability, not detailed enough for finals."
+STU012,RES005,2,Missing step-by-step explanations for the trickier hypothesis testing parts.
+STU012,RES006,2,Too dense for last-minute bayes theorem review; hard to follow quickly.
+STU012,RES012,3,Average usefulness for overfitting; covers basics but lacks harder problems.
+STU012,RES018,2,Too dense for last-minute sentiment analysis review; hard to follow quickly.
+STU012,RES020,2,"Not the right fit for my study style on recommender systems, felt too abstract."
+STU012,RES023,5,Spot-on coverage of binary trees; matched our exam questions closely.
+STU012,RES026,5,"Best exam review I used for sorting exam prep, very well structured."
+STU012,RES027,5,Spot-on coverage of hash tables; matched our exam questions closely.
+STU012,RES030,3,Average usefulness for eigenvalues; covers basics but lacks harder problems.
+STU012,RES031,3,"Decent overview of vectors, though a bit brief in some sections."
+STU012,RES032,3,"Okay study guide for partial derivatives, needed to pair it with textbook notes."
+STU012,RES033,2,Missing step-by-step explanations for the trickier derivatives parts.
+STU012,RES035,4,"Clear explanations on sql, helped reinforce lecture material."
+STU012,RES037,3,"Okay lecture notes for er diagram, needed to pair it with textbook notes."
+STU012,RES038,4,Good study guide for quick indexing review before class.
+STU013,RES004,2,Too dense for last-minute normal distribution review; hard to follow quickly.
+STU013,RES009,4,"Clear explanations on linear regression, helped reinforce lecture material."
+STU013,RES010,3,"Okay lecture notes for decision trees, needed to pair it with textbook notes."
+STU013,RES012,5,"Best cheatsheet I used for overfitting exam prep, very well structured."
+STU013,RES021,2,Missing step-by-step explanations for the trickier information retrieval parts.
+STU013,RES022,4,Helpful cheatsheet for practicing big-o fundamentals.
+STU013,RES023,4,Solid summary of binary trees concepts and easy to follow.
+STU013,RES026,5,Spot-on coverage of sorting; matched our exam questions closely.
+STU013,RES029,1,Did not help much with matrices homework; needed clearer examples.
+STU013,RES030,2,Missing step-by-step explanations for the trickier eigenvalues parts.
+STU013,RES031,1,Did not help much with vectors homework; needed clearer examples.
+STU013,RES035,5,Concise and easy to review right before the quiz on sql.
+STU013,RES036,5,"Helped everything click for normalization, especially the worked examples."
+STU013,RES039,4,Good cheatsheet for quick transactions review before class.
+STU013,RES040,5,Spot-on coverage of sql; matched our exam questions closely.
+STU014,RES003,2,"Not the right fit for my study style on probability, felt too abstract."
+STU014,RES004,2,Missing step-by-step explanations for the trickier normal distribution parts.
+STU014,RES010,3,"Decent overview of decision trees, though a bit brief in some sections."
+STU014,RES012,3,Average usefulness for overfitting; covers basics but lacks harder problems.
+STU014,RES013,3,"Decent overview of evaluation metrics, though a bit brief in some sections."
+STU014,RES015,2,Missing step-by-step explanations for the trickier neural networks parts.
+STU014,RES017,3,"Fine for a quick skim on tf-idf, not detailed enough for finals."
+STU014,RES018,3,"Fine for a quick skim on sentiment analysis, not detailed enough for finals."
+STU014,RES020,3,"Fine for a quick skim on recommender systems, not detailed enough for finals."
+STU014,RES021,2,Too dense for last-minute information retrieval review; hard to follow quickly.
+STU014,RES023,5,"Best study guide I used for binary trees exam prep, very well structured."
+STU014,RES025,4,Good study guide for quick dynamic programming review before class.
+STU014,RES026,5,Highly recommend this exam review if you struggle with sorting.
+STU014,RES027,5,"Helped everything click for hash tables, especially the worked examples."
+STU014,RES028,5,Highly recommend this practice set if you struggle with linked lists.
+STU014,RES030,2,Missing step-by-step explanations for the trickier eigenvalues parts.
+STU014,RES031,2,Missing step-by-step explanations for the trickier vectors parts.
+STU014,RES033,1,"Too confusing for exam prep on derivatives, skipped most of it."
+STU014,RES035,5,Spot-on coverage of sql; matched our exam questions closely.
+STU014,RES036,5,Highly recommend this study guide if you struggle with normalization.
+STU014,RES038,5,"Best study guide I used for indexing exam prep, very well structured."
+STU014,RES040,5,"Best exam review I used for sql exam prep, very well structured."
+STU015,RES007,2,"Not the right fit for my study style on probability, felt too abstract."
+STU015,RES011,3,"Decent overview of svm, though a bit brief in some sections."
+STU015,RES012,3,Average usefulness for overfitting; covers basics but lacks harder problems.
+STU015,RES015,2,Missing step-by-step explanations for the trickier neural networks parts.
+STU015,RES016,3,Average usefulness for text preprocessing; covers basics but lacks harder problems.
+STU015,RES017,4,Good study guide for quick tf-idf review before class.
+STU015,RES024,3,"Okay practice set for graphs, needed to pair it with textbook notes."
+STU015,RES026,4,"Clear explanations on sorting, helped reinforce lecture material."
+STU015,RES027,3,"Decent overview of hash tables, though a bit brief in some sections."
+STU015,RES028,3,"Okay practice set for linked lists, needed to pair it with textbook notes."
+STU015,RES029,3,"Fine for a quick skim on matrices, not detailed enough for finals."
+STU015,RES031,3,Average usefulness for vectors; covers basics but lacks harder problems.
+STU015,RES034,3,Average usefulness for optimization; covers basics but lacks harder problems.
+STU015,RES035,5,Highly recommend this practice set if you struggle with sql.
+STU015,RES036,5,Super clear study guide for normalization; saved me hours before the midterm.
+STU015,RES037,4,Helpful lecture notes for practicing er diagram fundamentals.
+STU015,RES038,4,"Very useful study guide for revising indexing, just wish it had one more example."
+STU015,RES039,5,Spot-on coverage of transactions; matched our exam questions closely.
+STU015,RES040,5,Highly recommend this exam review if you struggle with sql.
